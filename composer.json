@@ -1,0 +1,13 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "^8.17",
+        "laravel/scout": "^10.11",
+        "meilisearch/meilisearch-php": "^1.12",
+        "http-interop/http-factory-guzzle": "^1.2"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
